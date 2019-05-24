@@ -17,4 +17,4 @@ The samples that are provided here are only for general programming needs that I
 
 # Contributions
 
-If this is a gitignore io file that you would like to add to this repository, please create a pull request and it will be merged in 😊
+If this is a gitignore io file that you would like to add to this repository, please create a pull request (and make sure that the naming of the file sticks with the conventions as you can see here `language-anotherlanguage-environment.gitignore`) and it will be merged in 😊
