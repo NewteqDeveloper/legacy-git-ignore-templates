@@ -1,3 +1,6 @@
+# Migrated
+Moved to: https://codeberg.org/newteq_github_archives/git-ignore-templates
+
 # git-ignore-templates
 The purpose of this repo is to contain some .gitignore example files that can be used
 
